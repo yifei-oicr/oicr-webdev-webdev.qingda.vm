@@ -40,7 +40,7 @@ progress1:
   content: "UX & Visual Design & Custom Application development of tools to inform, educate and communicate goals and information for the Data Resource Center and portal: a new, collaborative research effort to harmonize clinical and genetic data from pediatric cancer and structural birth defects cohort."
 
 progress2:
-  title: "OICR Project Portfolio (FACIT-OTIS)"
+  title: "Sheen"
   content: "UX & Visual Design & Custom Application development of tools of OTIS, a repository of all OICR translational research projects and initiatives to better enable conversations with external investigators/partners. The dynamic resource will be searchable and will serve as the gateway to innovations within the organization."
 
 progress3:

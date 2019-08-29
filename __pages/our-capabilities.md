@@ -24,7 +24,7 @@ health_science:
     - Collecting and Analyzing Large Data Sets { eg. [NCI Genomic Data Commons](https://gdc.cancer.gov/){:target="_blank"} },
     - Supporting Research Services { eg. [OICR Events](https://events.oicr.on.ca/){:target="_blank"} }
     - and much, much more.
-  content: "We help to get your work and research recognized globally. We work with the Global Alliance for Genomics & Health, based in Cambridge and Toronto, to create tools to facilitate knowledge transfer. We have also delivered mission-critical websites for the International Cancer Genome Consortium that enable the collection and dissemination of research data to the global cancer research community."
+  content: "I am Sheen. This is through terminal."
 
 planning:
   title: "Planning & Strategy"
