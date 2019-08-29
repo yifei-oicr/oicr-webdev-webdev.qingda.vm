@@ -24,7 +24,7 @@ health_science:
     - Collecting and Analyzing Large Data Sets { eg. [NCI Genomic Data Commons](https://gdc.cancer.gov/){:target="_blank"} },
     - Supporting Research Services { eg. [OICR Events](https://events.oicr.on.ca/){:target="_blank"} }
     - and much, much more.
-  content: "I am Sheen."
+  content: "I am Sheen. This is through terminal."
 
 planning:
   title: "Planning & Strategy"
