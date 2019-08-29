@@ -9,7 +9,7 @@ isPublic_b: true
 
 ########################################
 
-description: "We design and build websites and web applications that enable OICR to present leading-edge cancer research that engages a global community for collaboration."
+description: "We (our webdev team) design and build websites and web applications that enable OICR to present leading-edge cancer research that engages a global community for collaboration."
 
 btn_banner: "EXPLORE OUR WORK"
 
